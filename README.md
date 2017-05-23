@@ -28,16 +28,13 @@
 * [ECharts](http://echarts.baidu.com)
 * [JS Bin](http://jsbin.com) 
 
-### Css
+### HTML/Css
 * [Flex 弹性布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 * [Css 动画可视化工具](http://cubic-bezier.com)
 * [Hover 动画](http://ianlunn.github.io/Hover/)
 * [Animate.css](https://daneden.github.io/animate.css/)
-* [Less](http://less.bootcss.com/) .
+* [Less](http://less.bootcss.com/) 
 * [Font Awesome](http://fontawesome.io/)
-
-### HTML
-
 
 ### Vuejs
 * [官网](https://cn.vuejs.org/)
