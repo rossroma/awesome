@@ -52,7 +52,8 @@
 ### Tools
 * [正则可视化工具](https://www.debuggex.com/)
 * [百度脑图](http://naotu.baidu.com)
-* [Webpack 中文文档](https://doc.webpack-china.org/)
+* [Webpack 中文指南](http://zhaoda.net/webpack-handbook/)
+* [convertio 文件格式转换](https://convertio.co/)
 
 ### 其他
 * [markdown](http://www.appinn.com/markdown/)
